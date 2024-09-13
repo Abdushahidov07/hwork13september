@@ -16,17 +16,19 @@
 #         print(f"Площадь квадрата {self.a*self.b}")
 # kvadrat = Ploshad(int(input()),int(input()))
 # kvadrat.ploshadkvadrata()
+# kvadrat1 = Ploshad(int(input()),int(input()))
+# kvadrat1.ploshadkvadrata()
 
 # Task 3
 # class ploshadfigur:
+#     pi =3.14
 #     def __init__(self, r):
 #         self.r=r
 #         pass
 #     def kryg(self):
-#         print(f"Площадь круга: {3.14*(self.r**2) }")
+#         print(f"Площадь круга: {ploshadfigur.pi*(self.r**2) }")
 # figyri =  ploshadfigur(int(input("r = ")))
 # figyri.kryg()
-
 # Task 4
 
 # class Car:
