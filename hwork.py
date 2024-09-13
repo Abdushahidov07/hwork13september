@@ -30,13 +30,11 @@
 # Task 4
 
 # class Car:
-#     total_car= 0
+#     total_car=0
 #     def __init__(self):
-#         Car.total_car += 1
+#         Car.total_car+=1
 #     @classmethod
 #     def totalcar(cls):
 #         return cls.total_car
-# car1 = Car()
-# car2 = Car()
-# car3 = Car()
+# car1=Car()
 # print(Car.totalcar())
